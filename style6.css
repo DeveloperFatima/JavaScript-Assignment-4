@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5rem;
+    background: linear-gradient(90deg, #f05d5d, #f36464);
+    color: white;
+    height: 90vh;
+    font-family: "Poppins", serif;
+    font-weight: bold;
+}
